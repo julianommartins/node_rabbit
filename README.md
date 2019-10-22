@@ -31,5 +31,5 @@ The workers will keep listening for rabbit messages.
 
 node app.js
 
-Every time that you run the app, some worker will recebive the message. As rabbit work using round robin, its impossible to tell what worker will receive what message
+Every time that you run the app, some worker will recebive the message. As rabbit work using round robin, its impossible to tell what worker will receive the first message
 
